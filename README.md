@@ -1,4 +1,8 @@
-### Hi there, I'm Levy ! 👋
+<h2 align="center"> 👋 Hi there, I'm Levy ! </h2>
+
+- 🌱 I’m currently learning **Python and DataScience**
+- 🚴‍♀️ Hobbies: **Basketball, Coding, Open-Source**.  
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LewLevy&show_icons=true&theme=radical&hide=stars,commits,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LewLevy/LewLevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
